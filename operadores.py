@@ -10,4 +10,7 @@ possui_ctps = True
 esta_trabalhado_atualmente = True
 possui_veiculo_proprio = False
 print((maior_de_idade == True) and (possui_ctps == True))
+
+print(maior_de_idade == True and possui_ctps == True)
+
 print(possui_ctps == True and not possui_veiculo_proprio)
